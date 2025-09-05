@@ -1,0 +1,17 @@
+{
+    "name": "rdsdev/users-app",
+    "description": "App web de gestión de usuarios",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Toncel",
+            "email": "ltoncel@worldconnections.co"
+        }
+    ],
+    "require": {}
+}
