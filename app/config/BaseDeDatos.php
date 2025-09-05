@@ -2,8 +2,8 @@
 class BaseDeDatos {
     private $servidor = "localhost";
     private $base_datos = "appcontactos";
-    private $usuario = "zack";
-    private $password = "5204";
+    private $usuario = "root";
+    private $password = "";
     public $conexion;
 
     public function getConexion() {
